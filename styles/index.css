@@ -1,0 +1,56 @@
+body {
+    text-align: center;
+    padding: 50px;
+    margin: 20px;
+}
+
+header {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+nav {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    text-align: center;
+    color: black;
+    font-size: largers;
+}
+
+.s1 {text-decoration: underline wavy red; /* Subrayado rojo ondulado */
+
+}
+
+.s2 {}
+
+.s3 {
+    color: black;
+    border-color: blue;
+    background-color: beige;
+
+}
+
+main {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 50px;
+    margin: 20px;
+}
+
+section {
+    margin: 50px;
+    padding: 50px;
+    border-style: solid;
+}
+
+a {
+    text-decoration: none!important;
+    color: black!important;
+}
