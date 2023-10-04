@@ -23,7 +23,11 @@ nav {
 
 }
 
-.s2 {}
+.s2 {
+    border-style: groove;
+    border-color: skyblue;
+    color :green
+}
 
 .s3 {
     color: black;
